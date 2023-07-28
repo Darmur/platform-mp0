@@ -12,7 +12,7 @@ fi
 C=$(pwd)
 A=../../armbian-master
 P="mp0"
-B="current"
+B="edge"
 T="nanopim1plus"
 K="sunxi"
 

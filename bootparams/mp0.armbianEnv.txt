@@ -1,4 +1,4 @@
-verbosity=0
+verbosity=8
 bootlogo=true
 console=serial
 disp_mode=1920x1080p60
